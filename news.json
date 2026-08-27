@@ -1,14 +1,17 @@
 {
-  "timestamp": "2026-08-27T11:57:09Z",
+  "timestamp": "2026-08-27T21:50:14Z",
   "fr": [
+    "TEST MANHOLE CARD 23H50",
     "Bienvenue sur le bulletin d'infos de Manhole Cards Collection !",
     "Cet espace sera mis à jour à chaque nouveauté importante."
   ],
   "en": [
+    "MANHOLE CARD TEST 23:50",
     "Welcome to the Manhole Cards Collection news bulletin!",
     "This space will be updated with every major update."
   ],
   "jp": [
+    "マンホールカードテスト23:50",
     "ManholeCardCollectionのお知らせへようこそ！",
     "重要な更新のたびにここを更新します。"
   ]
